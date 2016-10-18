@@ -26,5 +26,13 @@ public class UserDAO {
 			e.printStackTrace();
 		}
 		return result;
+	}	
+	
+	public boolean insert(User user){
+		boolean result = false;
+		
+		return result;
 	}
+		
+	
 }
